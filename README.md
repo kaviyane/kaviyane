@@ -1,4 +1,4 @@
-{'ver1':'1', 'ver2':'10', 'ver3':'\n[>> Base ] V7 \n[>> Exclusive ] New Update Style\n[>> 😌 ] KaviYa \n[>> ☭ ] \n [ðŸ‘‰ Â¸By ]KN MODS"\n' , 'dli':'https://wa.me/94719838879/2018/08/update-gbwhatsapp.html'}
+{'ver1':'12', 'ver2':'85', 'ver3':'[Fixed] Harmful app notification By Play Protect\n' , 'dli':'https://www.whatsappmods.net/p/download-changelog-details-whats-new-in.html'}
 
 
 
